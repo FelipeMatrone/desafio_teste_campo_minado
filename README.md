@@ -7,3 +7,13 @@ coordenadas são cobertos por testes automatizados.
 ```bash
 npm test
 ```
+
+## Especificação e casos de teste
+
+O desafio utiliza uma grade de 18 colunas por 14 linhas e limita a configuração a
+40 bombas. Os testes verificam a criação da grade, posicionamento de bombas, número
+de vizinhas, abertura em cascata, bandeiras, derrota e coordenadas inválidas.
+
+## Colaborador
+
+- Felipe Matrone — implementação e casos de teste.
